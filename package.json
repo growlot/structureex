@@ -1,5 +1,5 @@
 {
-  "name": "structure",
+  "name": "structureex",
   "version": "1.8.0",
   "description": "A simple schema/attributes library built on top of modern JavaScript",
   "main": "src/index.js",
@@ -12,12 +12,13 @@
     "node": ">=6"
   },
   "homepage": "https://structure.js.org/",
-  "repository": "https://github.com/talyssonoc/structure",
-  "bugs": "https://github.com/talyssonoc/structure/issues",
+  "repository": "https://github.com/growlot/structureex",
+  "bugs": "https://github.com/growlot/structureex/issues",
   "author": "Talysson <talyssonoc@gmail.com>",
   "contributors": [
     "Fernando <me@fleury.io>",
-    "Wender Freese <wender.jean@gmail.com>"
+    "Wender Freese <wender.jean@gmail.com>",
+    "Growlot <growlot.71@gmail.com>"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
