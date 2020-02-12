@@ -22,7 +22,7 @@ module.exports = function initializationOrderFor(schema) {
     if (isStaticInitialization(attributeDescriptor)) {
       staticInitializations.push([attrName, staticInitialization]);
     } else {
-      derivedInitializations.push([attrName, derivedInitialization]);
+      // derivedInitializations.push([attrName, derivedInitialization]);
     }
   }
 
